@@ -1,0 +1,1 @@
+Execute command `node index.js --time 5 --message "some message"`
